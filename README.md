@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img src="https://share.google/images/E8M21HzyQjzEog4lM">
+<img align="center" width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/69ef6c3d-92da-42ef-93f5-adec23aa7217" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitprajapati23&label=Profile%20views&color=0e75b6&style=flat" alt="rohitprajapati23" /> </p>
