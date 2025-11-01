@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **HTML,CSS and JS**
 
-- ⚡ Fun fact **I treat my bugs like BGMI enemy**
+- ⚡ Fun fact **I treat my bugs like bgmi enemy 🤓**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
