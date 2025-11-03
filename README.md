@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Prajapati</h1>
-<h3 align="center">A Passionate frontend developer.</h3>
+<h3 align="center">A Passionate Frontend Developer.</h3>
 <p align="center"><img width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/69ef6c3d-92da-42ef-93f5-adec23aa7217" /></p>
 
 
