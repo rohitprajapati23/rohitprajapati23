@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I treat my bugs like bgmi enemy 🤓**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohitprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitprajapati" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitprajapati" height="30" width="40" /></a>
