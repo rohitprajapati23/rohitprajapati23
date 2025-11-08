@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Full Stack Developer**<a href="https://rohitprajapati.vercel.app" style="text-decoration:none">  _rohit_prajapati</a>
+- 👯 I’m looking to collaborate on **Full Stack Developer**<a href="https://rohitprajapati.vercel.app" style="text-style:none" terget="_blank">  _rohit_prajapati</a>
 
 - 💬 Ask me about **HTML,CSS and JS**
 
