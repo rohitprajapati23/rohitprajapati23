@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitprajapati23" alt="rohitprajapati23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rohitprajapati" target="blank"><img src="https://img.shields.io/twitter/follow/rohitprajapati?logo=twitter&style=for-the-badge" alt="rohitprajapati" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/rohitprajapati" target="blank"><img src="https://img.shields.io/twitter/follow/rohitprajapati?logo=twitter&style=for-the-badge" alt="rohitprajapati" /></a> </p> -->
 
 - 🔭 I’m currently working on **Website Developer**
 
