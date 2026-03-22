@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Developer**<a href="https://rohitprajapati.vercel.app" style="text-decoration: none;" terget="_blank">  _rohit_prajapati</a>
 
-- 💬 Ask me about **HTML,CSS and JS**
+- 💬 Ask me about **Web Development and DSA.**
 
 - ⚡ Fun fact **I treat my bugs like bgmi enemy 🤓**
 
